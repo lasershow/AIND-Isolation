@@ -30,17 +30,7 @@ game_agent.py.
                              Playing Matches
                         *************************
 
- Match #   Opponent    AB_Improved   AB_Custom   AB_Custom_2  AB_Custom_3
-                        Won | Lost   Won | Lost   Won | Lost   Won | Lost
-    1       Random       6  |   4     8  |   2    10  |   0     9  |   1
-    2       MM_Open      7  |   3     6  |   4     5  |   5     7  |   3
-    3      MM_Center     7  |   3     7  |   3     9  |   1     9  |   1
-    4     MM_Improved    5  |   5     8  |   2     5  |   5     7  |   3
-    5       AB_Open      6  |   4     5  |   5     6  |   4     5  |   5
-    6      AB_Center     6  |   4     7  |   3     6  |   4     5  |   5
-    7     AB_Improved    5  |   5     7  |   3     3  |   7     4  |   6
---------------------------------------------------------------------------
-           Win Rate:      60.0%        68.6%        62.9%        65.7%
+[![https://diveintocode.gyazo.com/a7d544cfe698487f9caa07e7c0b0dfa2](https://t.gyazo.com/teams/diveintocode/a7d544cfe698487f9caa07e7c0b0dfa2.png)](https://diveintocode.gyazo.com/a7d544cfe698487f9caa07e7c0b0dfa2)
 
 Your agents forfeited 249.0 games while there were still legal moves available to play.
 
